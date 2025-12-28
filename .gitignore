@@ -11,3 +11,5 @@ idsvenv/
 .DS_Store
 .idea/
 *.log
+data/
+models/
